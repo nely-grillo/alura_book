@@ -1,1 +1,15 @@
 
+:root {
+    --cor-de-fundo: #EBECEE;
+    --cor-primaria: #EB9B00;
+    --cor-secundaria: #002F52;
+    --cor-texto: #000000;
+}
+
+body {
+    background-color: var(--cor-de-fundo);;
+}
+
+h1 {
+    color: var(--cor-secundaria);
+}
